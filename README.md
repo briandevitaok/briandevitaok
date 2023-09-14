@@ -4,6 +4,7 @@
 ### About Me
 - I am 28 years old and I am from Mar del Plata, Argentina.
 - I am a MERN and PERN full stack developer.
+- I am an instructor on Udemy where I have over 10 courses and 100,000 students.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the backend because I want to provide the best functional and performance experience to users interacting with my projects.
 
@@ -25,6 +26,7 @@
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/briandevitaok/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brian%20De Vita-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.udemy.com/user/brian-claudio-julian-de-vita/"><img alt="udemy" src="https://img.shields.io/badge/Udemy-Brian%20De Vita-blue?style=flat-square&logo=udemy"></a>
 <a href="https://www.youtube.com/channel/UCQWXrLEyeRx4vIPexbdpirg"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Brian%20De vita-blue?style=flat-square&logo=youtube"></a>
 <a href="16tupac16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-16tupac16@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
